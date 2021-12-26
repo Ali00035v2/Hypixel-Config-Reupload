@@ -1,2 +1,2 @@
 # Hypixel-Config-Reupload
-## PROBABLY DETECTED, DO NOT USE
+Not sure if its detected or not, but use at your own risk
