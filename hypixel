@@ -275,6 +275,7 @@ Zoot toggle false
 AntiHunger toggle false
 NoRotateSet toggle false
 AutoWeapon toggle false
+NoFall toggle false
 
 # Targets
 targetPlayer true
