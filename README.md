@@ -1,2 +1,2 @@
 # Hypixel-Config-Reupload
-DETECTED, DO NOT USE
+** PROBABLY DETECTED, DO NOT USE**
