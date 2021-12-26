@@ -80,7 +80,7 @@ FastBreak BreakDamage 0.8
 FastUse Mode AAC
 FastUse Delay 91
 
-Fly Mode Hypixel
+Fly Mode Rewinside
 Fly Hypixel-Boost false
 Fly Hypixel-BoostDelay 750
 Fly Hypixel-BoostTimer 5.0
