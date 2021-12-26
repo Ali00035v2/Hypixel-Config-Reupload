@@ -48,7 +48,7 @@ AutoSoup SimulateInventory false
 
 BugUp Mode FlyFlag
 BugUp MaxFallDistance 255
-BugUp MaxDistanceToSetback 3.5
+BugUp MaxDistanceToSetback 3.25
 
 ChestAura Range 4.0
 ChestAura Delay 200
