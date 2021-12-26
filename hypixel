@@ -1,6 +1,3 @@
-# AutoSettings for Hypixel
-# Forked from AutoSettings
-
 AntiBot Tab true
 AntiBot TabMode Contains
 AntiBot EntityID false
