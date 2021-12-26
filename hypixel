@@ -244,7 +244,7 @@ Step Delay 0
 FastStairs Mode Step
 FastStairs LongJump false
 
-SuperKnockback HurtTime 7
+SuperKnockback HurtTime 8
 
 Teams ScoreboardTeam true
 Teams Color true
@@ -292,8 +292,8 @@ unchat
 unchat      
 unchat      
 unchat WARNING! Please execute .panic nonrender before loading settings!
-unchat HYPIXEL SETTINGS 14/08/2021 MADE BY ENDER1355
+unchat HYPIXEL SETTINGS 14/08/2021 MADE BY ENDER1355/Ali00035
 unchat Tower, Step and NoFall are currently bypassing fine!
-unchat Do not use Fly, LongJump, NoSlow, InvMove, criticals or other step than jump!
+unchat Do not use Fly, LongJump, NoSlow, InvMove, PingSpoof, criticals or other step than jump!
 unchat Some detected features have been removed from the config, but still use at your own risk!
 unchat Scaffold + Timer aka Zoom Scaffold will get you WatchDog banned!
