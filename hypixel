@@ -220,16 +220,16 @@ Tower ConstantMotion 0.42
 Tower ConstantMotionJumpGround 0.99
 
 
-Sneak Mode Switch
+Sneak Mode Legit
 Sneak StopMove true
 
-Speed Mode NCPHop
+Speed Mode AACHop4.3.8
 
 # Sprint AllDirections bypassing
 Sprint AllDirections false
-Sprint Blindness true
-Sprint Food true
-Sprint CheckServerSide true
+Sprint Blindness false
+Sprint Food false
+Sprint CheckServerSide false
 Sprint CheckServerSideOnlyGround false
 
 # b71 (https://github.com/CCBlueX/LiquidBounce1.8-Issues/issues/3586)
