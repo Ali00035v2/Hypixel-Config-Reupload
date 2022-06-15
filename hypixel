@@ -229,7 +229,7 @@ Speed Mode AACHop4.3.8
 Sprint AllDirections false
 Sprint Blindness false
 Sprint Food false
-Sprint CheckServerSide false
+Sprint CheckServerSide true
 Sprint CheckServerSideOnlyGround false
 
 # b71 (https://github.com/CCBlueX/LiquidBounce1.8-Issues/issues/3586)
